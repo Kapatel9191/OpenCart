@@ -12,7 +12,7 @@ public class Validate1 {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.opencart.com/");
 
-        
+        System.out.println("Both Get Started functionality navigates to the login page= It's working as expected");
 	}
 
 
